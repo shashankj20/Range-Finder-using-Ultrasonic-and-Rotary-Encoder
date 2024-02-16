@@ -42,4 +42,4 @@ Experiment with different frequencies for the buzzer tone.
 This project was created by [Shashank J].
 
 8. License:
-This project is licensed under the Creative Commons License. Feel free to use and modify it for your own purposes, but please attribute the original author.
+This project is licensed under the MIT License. Feel free to use and modify it for your own purposes, but please attribute the original author.
